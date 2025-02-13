@@ -1,4 +1,5 @@
-##
+## IKAROS AUTO REERRAL
+## instalation
 1. Clone the repository:
 ```bash
 git clone https://github.com/bangzx/ikaros-auto-bot.git
