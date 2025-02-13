@@ -8,3 +8,5 @@ node bot.js
 ```
 ## CHANNEL TELEGRAM JOIN HERE
 [KLIK DISINI AIRDROP FETCH](https://t.me/airdropfetchofficial)
+
+![](resul.jpg)
